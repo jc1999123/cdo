@@ -7,3 +7,5 @@
 #The timepre.py is time series forecasting.
 
 #The workflow graph is in figure1.
+
+![image](https://github.com/jc1999123/cdo/blob/main/Figure1.jpg)
